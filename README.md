@@ -6,5 +6,6 @@
 2. Add this extension to your browser
 [Steps to add extension](https://support.google.com/chrome/a/answer/2714278?hl=en)
 3. Click on the extension during an ongoing geoguessr game to reveal the location
+4. If the extension is blank, reload the page.
 
  ![Demo](https://github.com/Anurag-gg/Geoguessr-Browser-Extension/blob/main/demo.png)
