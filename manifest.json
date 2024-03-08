@@ -1,0 +1,29 @@
+{
+    "name": "Geoguessr helper",
+    "version": "1.0",
+    "manifest_version": 3,
+    "description": "Identify places from images",
+    "web_accessible_resources": [{
+    "resources": ["inject.js"],
+    "matches": ["<all_urls>"]
+  }],
+  "content_scripts": [
+     {
+       "matches": ["https://www.geoguessr.com/*/*"],
+       "js": ["contentscript.js"]
+     }
+   ],
+    "permissions": [
+    "tabs",
+    "storage"
+    ],
+    "host_permissions": [
+      "https://api.bigdatacloud.net/data/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  }
+  }
