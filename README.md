@@ -7,4 +7,4 @@
 [Steps to add extension](https://support.google.com/chrome/a/answer/2714278?hl=en)
 3. Click on the extension during an ongoing geoguessr game to reveal the location
 
- ![Demo]([/assets/images/tux.png](https://github.com/Anurag-gg/Geoguessr-Browser-Extension/blob/main/demo.png)https://github.com/Anurag-gg/Geoguessr-Browser-Extension/blob/main/demo.png)
+ ![Demo]([/assets/images/tux.png](https://github.com/Anurag-gg/Geoguessr-Browser-Extension/blob/main/demo.png)
